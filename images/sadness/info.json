@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 162,
+    "height" : 91
+  }, {
+    "width" : 324,
+    "height" : 182
+  }, {
+    "width" : 648,
+    "height" : 364
+  }, {
+    "width" : 1296,
+    "height" : 728
+  }, {
+    "width" : 2592,
+    "height" : 1456
+  }, {
+    "width" : 5184,
+    "height" : 2912
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 5184,
+  "@id" : "https://GiadaNcode.github.io/exam-tmdr-2024/images/sadness",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 2912
+}

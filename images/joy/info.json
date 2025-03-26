@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 180,
+    "height" : 120
+  }, {
+    "width" : 360,
+    "height" : 240
+  }, {
+    "width" : 720,
+    "height" : 480
+  }, {
+    "width" : 1440,
+    "height" : 960
+  }, {
+    "width" : 2880,
+    "height" : 1920
+  }, {
+    "width" : 5760,
+    "height" : 3840
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 5760,
+  "@id" : "https://GiadaNcode.github.io/exam-tmdr-2024/images/joy",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 3840
+}

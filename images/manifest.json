@@ -7,5 +7,816 @@
             "All images loaded in GiadaNcode/exam-tmdr-2024 project"
         ]
     },
-    "items": []
+    "items": [
+        {
+            "id": "https://GiadaNcode.github.io/exam-tmdr-2024/images/anticipation/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "anticipation"
+                ]
+            },
+            "height": 2860,
+            "width": 4147,
+            "items": [
+                {
+                    "id": "https://GiadaNcode.github.io/exam-tmdr-2024/images/anticipation/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://GiadaNcode.github.io/exam-tmdr-2024/images/anticipation/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://GiadaNcode.github.io/exam-tmdr-2024/images/anticipation/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 130,
+                                                "height": 90
+                                            },
+                                            {
+                                                "width": 260,
+                                                "height": 179
+                                            },
+                                            {
+                                                "width": 519,
+                                                "height": 358
+                                            },
+                                            {
+                                                "width": 1037,
+                                                "height": 715
+                                            },
+                                            {
+                                                "width": 2074,
+                                                "height": 1430
+                                            },
+                                            {
+                                                "width": 4147,
+                                                "height": 2860
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 4147,
+                                        "@id": "https://GiadaNcode.github.io/exam-tmdr-2024/images/anticipation",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 2860,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://GiadaNcode.github.io/exam-tmdr-2024/images/anticipation/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://GiadaNcode.github.io/exam-tmdr-2024/images/fear/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "fear"
+                ]
+            },
+            "height": 3648,
+            "width": 5472,
+            "items": [
+                {
+                    "id": "https://GiadaNcode.github.io/exam-tmdr-2024/images/fear/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://GiadaNcode.github.io/exam-tmdr-2024/images/fear/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://GiadaNcode.github.io/exam-tmdr-2024/images/fear/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 171,
+                                                "height": 114
+                                            },
+                                            {
+                                                "width": 342,
+                                                "height": 228
+                                            },
+                                            {
+                                                "width": 684,
+                                                "height": 456
+                                            },
+                                            {
+                                                "width": 1368,
+                                                "height": 912
+                                            },
+                                            {
+                                                "width": 2736,
+                                                "height": 1824
+                                            },
+                                            {
+                                                "width": 5472,
+                                                "height": 3648
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 5472,
+                                        "@id": "https://GiadaNcode.github.io/exam-tmdr-2024/images/fear",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 3648,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://GiadaNcode.github.io/exam-tmdr-2024/images/fear/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://GiadaNcode.github.io/exam-tmdr-2024/images/trust/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "trust"
+                ]
+            },
+            "height": 3307,
+            "width": 5291,
+            "items": [
+                {
+                    "id": "https://GiadaNcode.github.io/exam-tmdr-2024/images/trust/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://GiadaNcode.github.io/exam-tmdr-2024/images/trust/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://GiadaNcode.github.io/exam-tmdr-2024/images/trust/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 166,
+                                                "height": 104
+                                            },
+                                            {
+                                                "width": 331,
+                                                "height": 207
+                                            },
+                                            {
+                                                "width": 662,
+                                                "height": 414
+                                            },
+                                            {
+                                                "width": 1323,
+                                                "height": 827
+                                            },
+                                            {
+                                                "width": 2646,
+                                                "height": 1654
+                                            },
+                                            {
+                                                "width": 5291,
+                                                "height": 3307
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 5291,
+                                        "@id": "https://GiadaNcode.github.io/exam-tmdr-2024/images/trust",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 3307,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://GiadaNcode.github.io/exam-tmdr-2024/images/trust/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://GiadaNcode.github.io/exam-tmdr-2024/images/optimism/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "optimism"
+                ]
+            },
+            "height": 4997,
+            "width": 7500,
+            "items": [
+                {
+                    "id": "https://GiadaNcode.github.io/exam-tmdr-2024/images/optimism/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://GiadaNcode.github.io/exam-tmdr-2024/images/optimism/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://GiadaNcode.github.io/exam-tmdr-2024/images/optimism/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 235,
+                                                "height": 157
+                                            },
+                                            {
+                                                "width": 469,
+                                                "height": 313
+                                            },
+                                            {
+                                                "width": 938,
+                                                "height": 625
+                                            },
+                                            {
+                                                "width": 1875,
+                                                "height": 1250
+                                            },
+                                            {
+                                                "width": 3750,
+                                                "height": 2499
+                                            },
+                                            {
+                                                "width": 7500,
+                                                "height": 4997
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 7500,
+                                        "@id": "https://GiadaNcode.github.io/exam-tmdr-2024/images/optimism",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 4997,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://GiadaNcode.github.io/exam-tmdr-2024/images/optimism/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://GiadaNcode.github.io/exam-tmdr-2024/images/love/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "love"
+                ]
+            },
+            "height": 3648,
+            "width": 5472,
+            "items": [
+                {
+                    "id": "https://GiadaNcode.github.io/exam-tmdr-2024/images/love/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://GiadaNcode.github.io/exam-tmdr-2024/images/love/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://GiadaNcode.github.io/exam-tmdr-2024/images/love/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 171,
+                                                "height": 114
+                                            },
+                                            {
+                                                "width": 342,
+                                                "height": 228
+                                            },
+                                            {
+                                                "width": 684,
+                                                "height": 456
+                                            },
+                                            {
+                                                "width": 1368,
+                                                "height": 912
+                                            },
+                                            {
+                                                "width": 2736,
+                                                "height": 1824
+                                            },
+                                            {
+                                                "width": 5472,
+                                                "height": 3648
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 5472,
+                                        "@id": "https://GiadaNcode.github.io/exam-tmdr-2024/images/love",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 3648,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://GiadaNcode.github.io/exam-tmdr-2024/images/love/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://GiadaNcode.github.io/exam-tmdr-2024/images/sadness/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "sadness"
+                ]
+            },
+            "height": 2912,
+            "width": 5184,
+            "items": [
+                {
+                    "id": "https://GiadaNcode.github.io/exam-tmdr-2024/images/sadness/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://GiadaNcode.github.io/exam-tmdr-2024/images/sadness/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://GiadaNcode.github.io/exam-tmdr-2024/images/sadness/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 162,
+                                                "height": 91
+                                            },
+                                            {
+                                                "width": 324,
+                                                "height": 182
+                                            },
+                                            {
+                                                "width": 648,
+                                                "height": 364
+                                            },
+                                            {
+                                                "width": 1296,
+                                                "height": 728
+                                            },
+                                            {
+                                                "width": 2592,
+                                                "height": 1456
+                                            },
+                                            {
+                                                "width": 5184,
+                                                "height": 2912
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 5184,
+                                        "@id": "https://GiadaNcode.github.io/exam-tmdr-2024/images/sadness",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 2912,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://GiadaNcode.github.io/exam-tmdr-2024/images/sadness/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://GiadaNcode.github.io/exam-tmdr-2024/images/disgust/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "disgust"
+                ]
+            },
+            "height": 4000,
+            "width": 6000,
+            "items": [
+                {
+                    "id": "https://GiadaNcode.github.io/exam-tmdr-2024/images/disgust/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://GiadaNcode.github.io/exam-tmdr-2024/images/disgust/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://GiadaNcode.github.io/exam-tmdr-2024/images/disgust/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 188,
+                                                "height": 125
+                                            },
+                                            {
+                                                "width": 375,
+                                                "height": 250
+                                            },
+                                            {
+                                                "width": 750,
+                                                "height": 500
+                                            },
+                                            {
+                                                "width": 1500,
+                                                "height": 1000
+                                            },
+                                            {
+                                                "width": 3000,
+                                                "height": 2000
+                                            },
+                                            {
+                                                "width": 6000,
+                                                "height": 4000
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 6000,
+                                        "@id": "https://GiadaNcode.github.io/exam-tmdr-2024/images/disgust",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 4000,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://GiadaNcode.github.io/exam-tmdr-2024/images/disgust/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://GiadaNcode.github.io/exam-tmdr-2024/images/surprise/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "surprise"
+                ]
+            },
+            "height": 3000,
+            "width": 4000,
+            "items": [
+                {
+                    "id": "https://GiadaNcode.github.io/exam-tmdr-2024/images/surprise/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://GiadaNcode.github.io/exam-tmdr-2024/images/surprise/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://GiadaNcode.github.io/exam-tmdr-2024/images/surprise/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 125,
+                                                "height": 94
+                                            },
+                                            {
+                                                "width": 250,
+                                                "height": 188
+                                            },
+                                            {
+                                                "width": 500,
+                                                "height": 375
+                                            },
+                                            {
+                                                "width": 1000,
+                                                "height": 750
+                                            },
+                                            {
+                                                "width": 2000,
+                                                "height": 1500
+                                            },
+                                            {
+                                                "width": 4000,
+                                                "height": 3000
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 4000,
+                                        "@id": "https://GiadaNcode.github.io/exam-tmdr-2024/images/surprise",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 3000,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://GiadaNcode.github.io/exam-tmdr-2024/images/surprise/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://GiadaNcode.github.io/exam-tmdr-2024/images/joy/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "joy"
+                ]
+            },
+            "height": 3840,
+            "width": 5760,
+            "items": [
+                {
+                    "id": "https://GiadaNcode.github.io/exam-tmdr-2024/images/joy/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://GiadaNcode.github.io/exam-tmdr-2024/images/joy/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://GiadaNcode.github.io/exam-tmdr-2024/images/joy/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 180,
+                                                "height": 120
+                                            },
+                                            {
+                                                "width": 360,
+                                                "height": 240
+                                            },
+                                            {
+                                                "width": 720,
+                                                "height": 480
+                                            },
+                                            {
+                                                "width": 1440,
+                                                "height": 960
+                                            },
+                                            {
+                                                "width": 2880,
+                                                "height": 1920
+                                            },
+                                            {
+                                                "width": 5760,
+                                                "height": 3840
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 5760,
+                                        "@id": "https://GiadaNcode.github.io/exam-tmdr-2024/images/joy",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 3840,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://GiadaNcode.github.io/exam-tmdr-2024/images/joy/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://GiadaNcode.github.io/exam-tmdr-2024/images/anger/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "anger"
+                ]
+            },
+            "height": 4000,
+            "width": 6000,
+            "items": [
+                {
+                    "id": "https://GiadaNcode.github.io/exam-tmdr-2024/images/anger/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://GiadaNcode.github.io/exam-tmdr-2024/images/anger/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://GiadaNcode.github.io/exam-tmdr-2024/images/anger/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 188,
+                                                "height": 125
+                                            },
+                                            {
+                                                "width": 375,
+                                                "height": 250
+                                            },
+                                            {
+                                                "width": 750,
+                                                "height": 500
+                                            },
+                                            {
+                                                "width": 1500,
+                                                "height": 1000
+                                            },
+                                            {
+                                                "width": 3000,
+                                                "height": 2000
+                                            },
+                                            {
+                                                "width": 6000,
+                                                "height": 4000
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 6000,
+                                        "@id": "https://GiadaNcode.github.io/exam-tmdr-2024/images/anger",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 4000,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://GiadaNcode.github.io/exam-tmdr-2024/images/anger/canvas/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }
