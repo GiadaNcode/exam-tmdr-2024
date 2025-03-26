@@ -9,7 +9,7 @@
     "@language" : "en"
   } ],
   "license" : "https://creativecommons.org/licenses/by/3.0/",
-  "attribution" : "[Click to edit attribution]",
+  "attribution" : "Annotations for the exam ",
   "sequences" : [ {
     "@id" : "http://fe568097-0e4a-4a85-aefb-54dfa752fd44",
     "@type" : "sc:Sequence",
