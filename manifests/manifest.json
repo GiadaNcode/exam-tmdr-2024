@@ -1,0 +1,286 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://GiadaNcode.github.io/exam-tmdr-2024/manifests/manifest.json",
+  "@type" : "sc:Manifest",
+  "label" : "Emotions",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "Images representing emotions",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[Click to edit attribution]",
+  "sequences" : [ {
+    "@id" : "http://fe568097-0e4a-4a85-aefb-54dfa752fd44",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://a956dd29-03bc-45c4-9035-333a45d09731",
+      "@type" : "sc:Canvas",
+      "label" : "Surprise",
+      "height" : 3000,
+      "width" : 4000,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://85db286f-1327-4b30-b4bc-f0bded29ec9b",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://giadancode.github.io/exam-tmdr-2024/images/surprise/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://giadancode.github.io/exam-tmdr-2024/images/surprise",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3000,
+          "width" : 4000
+        },
+        "on" : "http://a956dd29-03bc-45c4-9035-333a45d09731"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://ef7ff2c6-2921-4454-be5d-c0b1b460803b",
+      "@type" : "sc:Canvas",
+      "label" : "Joy",
+      "height" : 3840,
+      "width" : 5760,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://95a2e355-538c-48c0-bd0a-beeaa6d54353",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://giadancode.github.io/exam-tmdr-2024/images/joy/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://giadancode.github.io/exam-tmdr-2024/images/joy",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3840,
+          "width" : 5760
+        },
+        "on" : "http://ef7ff2c6-2921-4454-be5d-c0b1b460803b"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://e43ae614-d0db-4842-a09a-e0189ec2ccd4",
+      "@type" : "sc:Canvas",
+      "label" : "Anger",
+      "height" : 4000,
+      "width" : 6000,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://95074f0d-86ca-40d3-85b9-3fb94f8b9fbb",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://giadancode.github.io/exam-tmdr-2024/images/anger/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://giadancode.github.io/exam-tmdr-2024/images/anger",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 4000,
+          "width" : 6000
+        },
+        "on" : "http://e43ae614-d0db-4842-a09a-e0189ec2ccd4"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://00aefab4-4d37-488a-9e73-038dcc7c4810",
+      "@type" : "sc:Canvas",
+      "label" : "Disgust",
+      "height" : 4000,
+      "width" : 6000,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://a95a70d2-412b-47ca-a8c7-e77167c1fb30",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://giadancode.github.io/exam-tmdr-2024/images/disgust/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://giadancode.github.io/exam-tmdr-2024/images/disgust",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 4000,
+          "width" : 6000
+        },
+        "on" : "http://00aefab4-4d37-488a-9e73-038dcc7c4810"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://d0d56da8-c9da-4a14-90c4-65da1e279ce7",
+      "@type" : "sc:Canvas",
+      "label" : "Sadness",
+      "height" : 2912,
+      "width" : 5184,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://8459964e-7ae2-449f-a42d-9c8606dbcff9",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://giadancode.github.io/exam-tmdr-2024/images/sadness/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://giadancode.github.io/exam-tmdr-2024/images/sadness",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 2912,
+          "width" : 5184
+        },
+        "on" : "http://d0d56da8-c9da-4a14-90c4-65da1e279ce7"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://1dc03bda-8027-4823-a349-0e0db3aa6076",
+      "@type" : "sc:Canvas",
+      "label" : "Love",
+      "height" : 3648,
+      "width" : 5472,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://9bbfb4de-2fa2-44a2-be04-a55788b732f2",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://giadancode.github.io/exam-tmdr-2024/images/love/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://giadancode.github.io/exam-tmdr-2024/images/love",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3648,
+          "width" : 5472
+        },
+        "on" : "http://1dc03bda-8027-4823-a349-0e0db3aa6076"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://1faade6c-310f-4e28-a83c-b282dcd0ef50",
+      "@type" : "sc:Canvas",
+      "label" : "Optimism",
+      "height" : 4997,
+      "width" : 7500,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://0697c3ae-0f61-4e51-979e-c2c24e50b725",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://giadancode.github.io/exam-tmdr-2024/images/optimism/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://giadancode.github.io/exam-tmdr-2024/images/optimism",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 4997,
+          "width" : 7500
+        },
+        "on" : "http://1faade6c-310f-4e28-a83c-b282dcd0ef50"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://49b4190c-06ab-448e-a972-48d24b4acfcd",
+      "@type" : "sc:Canvas",
+      "label" : "Trust",
+      "height" : 3307,
+      "width" : 5291,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://55d2ac7f-97db-4a2e-acb3-a0538ca61a44",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://giadancode.github.io/exam-tmdr-2024/images/trust/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://giadancode.github.io/exam-tmdr-2024/images/trust",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3307,
+          "width" : 5291
+        },
+        "on" : "http://49b4190c-06ab-448e-a972-48d24b4acfcd"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://e47ffd50-ff5e-4d88-b706-6d9896525426",
+      "@type" : "sc:Canvas",
+      "label" : "Fear",
+      "height" : 3648,
+      "width" : 5472,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://74749a21-a07e-420c-9538-a62789d204df",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://giadancode.github.io/exam-tmdr-2024/images/fear/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://giadancode.github.io/exam-tmdr-2024/images/fear",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3648,
+          "width" : 5472
+        },
+        "on" : "http://e47ffd50-ff5e-4d88-b706-6d9896525426"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://3fc92f4b-cfd5-4e4e-93d1-0f5037bb95e8",
+      "@type" : "sc:Canvas",
+      "label" : "Anticipation",
+      "height" : 2860,
+      "width" : 4147,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://1bef0ef6-86c9-4a32-bf86-cebfafaf6908",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://giadancode.github.io/exam-tmdr-2024/images/anticipation/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://giadancode.github.io/exam-tmdr-2024/images/anticipation",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 2860,
+          "width" : 4147
+        },
+        "on" : "http://3fc92f4b-cfd5-4e4e-93d1-0f5037bb95e8"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ],
+  "thumbnail" : {
+    "@id" : "http://a956dd29-03bc-45c4-9035-333a45d09731"
+  }
+}
