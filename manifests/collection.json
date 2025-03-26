@@ -1,0 +1,13 @@
+{
+  "id" : "https://GiadaNcode.github.io/exam-tmdr-2024/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in GiadaNcode/exam-tmdr-2024 project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://GiadaNcode.github.io/exam-tmdr-2024/manifests/manifest.json",
+    "label" : "Emotions"
+  } ]
+}
