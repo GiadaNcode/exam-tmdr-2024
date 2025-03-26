@@ -1,0 +1,11 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://GiadaNcode.github.io/exam-tmdr-2024/images/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "All images loaded in GiadaNcode/exam-tmdr-2024 project"
+        ]
+    },
+    "items": []
+}
